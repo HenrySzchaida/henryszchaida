@@ -9,8 +9,8 @@
 
 <div>
 <a href="github.com/henryszchaida">
-<img height=180em" src="https://github-readme-stats.vercel.app/api?username=henryszchaida&count_private=true&show_icons=false&theme=cobalt&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryszchaida&theme=cobalt&layout=compact&langs=count"/>
+<img  width="48%"  src="https://github-readme-stats.vercel.app/api?username=henryszchaida&count_private=true&show_icons=false&theme=cobalt&include_all_commits=true"/>
+<img   width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryszchaida&theme=cobalt&layout=compact&langs=count"/>
 </div>
                                                                                                                                               
   <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
