@@ -4,7 +4,7 @@
 - 📄 Meu nome é <b>Henry</b>, tenho 18 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
 - 💻 Sou estudante do terceiro ano de Desenvolvimento de Sistemas do <b>IFPR</b>.
-- 🎮 Meu hobby preferido é jogar e ler. Meu livro preferido é <b>O guia do mochileiro</b>
+- 🎮 Gosto de jogar e de Ler mangás.
 <br>
 
 <div>
