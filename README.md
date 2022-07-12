@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Olá, fique a vontade para olhar meu perfil </h2>
 
-<!--
-**HenrySzchaida/henryszchaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📄 Meu nome é <b>Henry</b>, tenho 18 anos.
+- 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
+- 💻 Sou estudante do terceiro ano de Desenvolvimento de Sistemas do <b>IFPR</b>.
+- 🎮 Meu hobby preferido é jogar e ler. Meu livro preferido é <b>O guia do mochileiro</b>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="github.com/henryszchaida">
+<img height=180em" src="https://github-readme-stats.vercel.app/api?username=henryszchaida&count_private=true&show_icons=false&theme=cobalt&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryszchaida&theme=cobalt&layout=compact&langs=count"/>
+</div>
+                                                                                                                                              
+  <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                                                                                                                                              
