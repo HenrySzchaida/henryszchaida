@@ -1,7 +1,7 @@
 <h2> Olá, fique a vontade para olhar meu perfil </h2>
 
 
-- 📄 Meu nome é <b>Henry</b>, tenho 18 anos.
+- 📄 Meu nome é <b>Henry</b>, tenho 19 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
 - 💻 Sou estudante do terceiro ano de Desenvolvimento de Sistemas do <b>IFPR</b>.
 - 🎮 Gosto de jogar e de Ler mangás.
