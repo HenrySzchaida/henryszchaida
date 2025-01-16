@@ -3,7 +3,7 @@
 
 - 📄 Meu nome é <b>Henry</b>, tenho 20 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
-- 💻 Sou estudante do Primeiro ano de Ciência da Compuação da <b>Unioeste</b>.
+- 💻 Cursando 2º semestre em Ciência da Compuação <b>Unioeste</b>.
 - 🎮 Gosto de jogar e de Ler mangás.
 <br>
 
