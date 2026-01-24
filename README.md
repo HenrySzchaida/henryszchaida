@@ -1,9 +1,9 @@
 <h2> Olá, fique a vontade para olhar meu perfil </h2>
 
 
-- 📄 Meu nome é <b>Henry</b>, tenho 20 anos.
+- 📄 Meu nome é <b>Henry</b>, tenho 21 anos.
 - 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
-- 💻 Cursando 2º semestre em Ciência da Compuação <b>Unioeste</b>.
+- 💻 Cursando 1º semestre em Análise e Desenvolvimento de Sistemas <b>IFPR</b>.
 - 🎮 Gosto de jogar e de Ler mangás.
 <br>
 
