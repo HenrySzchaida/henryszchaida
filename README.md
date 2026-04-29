@@ -2,7 +2,7 @@
 
 
 - 📄 Meu nome é <b>Henry</b>, tenho 21 anos.
-- 📍 Moro em <b>Foz do Iguaçu, Paraná - Brasil</b>.
+- 📍 Moro em <b>Jaraguá do Sul, SC - Brasil</b>.
 - 💻 Cursando 1º semestre em Análise e Desenvolvimento de Sistemas <b>IFPR</b>.
 - 🎮 Gosto de jogar e de Ler mangás.
 <br>
